@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Main /> should render the heading 1`] = `
+.c0 {
+  padding: 4em;
+  background: papayawhip;
+}
+
+.c1 {
+  padding: 4em;
+  background: papayawhip;
+}
+
+.c2 {
+  padding: 4em;
+  background: papayawhip;
+}
+
+<main
+  class="c0"
+>
+  <h1
+    class="c1"
+  >
+    Efy.ai
+  </h1>
+  <h2
+    class="c2"
+  >
+    Plataforma de Recursos Humanos com IA
+  </h2>
+</main>
+`;
